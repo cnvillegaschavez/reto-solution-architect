@@ -13,3 +13,5 @@ Este diagrama muestra una vista general de los actores y sistemas involucrados.
 Representa los contenedores de software principales y cómo interactúan entre sí.
 
 ![Diagrama de arquitectura nivel 2 de modelo C4](diagrams/diagram-architect-c2.png)
+
+✅ [Documentación Técnica](documentation-tech.md)  (Click para ver respuesta)

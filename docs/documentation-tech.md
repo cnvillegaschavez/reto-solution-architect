@@ -167,3 +167,6 @@ Beneficios:
 * **Mayor resiliencia y tolerancia a fallos**
 * **Manejo eficiente de picos de carga**
 * Comunicacion entre micro servicios mediante eventos y subscripciones.
+
+-----
+✅ [Plan de Implementación](implementation.md) (Click para ver respuesta)

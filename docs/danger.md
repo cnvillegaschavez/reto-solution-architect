@@ -24,3 +24,5 @@ Para minimizar el impacto de desastres, es fundamental realizar pruebas periódi
 
 Se define una matriz de escalamiento que inicia con el equipo de operaciones cloud, seguido por arquitectos de solución y, si es necesario, los proveedores de servicio (AWS/Azure). En casos críticos, se involucra al comité de crisis. Se escalan incidentes como interrupciones prolongadas de VPN, alta latencia en sincronización de datos o vulnerabilidades de seguridad críticas.  
 
+
+✅ [Defensa de la Solución](defense.md)

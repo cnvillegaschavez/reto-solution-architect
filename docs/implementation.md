@@ -74,3 +74,6 @@ Poner en marcha la nueva arquitectura y asegurar su operación con monitoreo con
 ---
 
 Este plan asegura una transición controlada y estructurada hacia la nueva arquitectura. 🚀
+
+
+✅ [Evaluación de Riesgos](danger.md) 
