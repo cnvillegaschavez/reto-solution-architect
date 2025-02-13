@@ -41,13 +41,13 @@ Este repositorio contiene la solución propuesta para la modernización de infra
 - Descripción de cada componente del sistema, su funcionalidad y cómo se integran entre sí.
 - Justificación técnica de las decisiones arquitectónicas tomadas.
 
-✅ [Plan de Implementación](plan-implementacion.md) (Click para ver respuesta)
+✅ [Plan de Implementación](docs/implementation.md) (Click para ver respuesta)
 - Plan de implementación detallado que describa cómo se llevará a cabo la integración y migración de los sistemas actuales a la nueva arquitectura.
 - Estrategia de pruebas y validación de la solución.
 
-✅ [Evaluación de Riesgos](evaluacion-riesgos.md) (Click para ver respuesta)
+✅ [Evaluación de Riesgos](docs/danger.md) (Click para ver respuesta)
 - Identificación de posibles riesgos durante la implementación y medidas de mitigación para reducir su impacto.
 
-✅ [Defensa de la Solución](defensa.md) (Click para ver respuesta)
+✅ [Defensa de la Solución](docs/defense.md) (Click para ver respuesta)
 - ¿Por qué consideras que tu solución es la mejor que la de otro partner? 
 - ¿Cuáles son las principales cuestionamientos que has recibido del cliente al mostrar una solución? En base a ello, ¿cómo sustentarías al cliente que esta solución es lo que le genera valor? (Asume las premisas que consideres necesarias)

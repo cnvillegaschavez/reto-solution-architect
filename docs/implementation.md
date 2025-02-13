@@ -28,6 +28,7 @@ Migrar y adaptar los sistemas actuales a una arquitectura basada en contenedores
 - **Migrar lógica de negocio** de servidores on-premise a contenedores en la nube.
 - **Configurar Istio Service Mesh** para mejorar comunicación entre microservicios.
 - **Implementar API Gateway** para exponer servicios de forma segura.
+- **Integración contínua** para desplegar aplicaciones, puede ser Github Actions o Azure DevOps 
 
 
 ---
@@ -53,7 +54,7 @@ Asegurar la funcionalidad, estabilidad y rendimiento de la nueva arquitectura an
 - **Pruebas Unitarias y de Integración** en cada microservicio.
 - **Pruebas de Carga** en la infraestructura con herramientas como **JMeter o k6**.
 - **Pruebas de Seguridad** en API Gateway, Kubernetes e IAM.
-- **Validación de Comunicación y Desempeño** de bases de datos con consultas reales.
+- **Validación de Comunicación** de bases de datos con consultas reales.
 - **Simulación de Failover y Recuperación** para comprobar la resistencia del sistema.
 
 
